@@ -1,4 +1,4 @@
-# kako-postati-programer
+# Kako krenuti sa programiranjem
 Uputstvo za sve koji bi sami želeli da nauče da programiraju
 
 ## Kome je ovo uputstvo namenjeno?
