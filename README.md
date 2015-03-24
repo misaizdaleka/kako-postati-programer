@@ -1,5 +1,5 @@
 # kako-postati-programer
-Uputstvo za sve koji bi želeli da nauče da programiraju, a nisu završili IT studije
+Uputstvo za sve koji bi sami želeli da nauče da programiraju
 
 ## Kome je ovo uputstvo namenjeno?
 Ovo uputstvo je namenjeno ljudima koji nisu studirali ili završili bilo kakvu školu IT vrste (elektronski/elektrotehnički fakultet, višu IT školu itd). Oni solidno barataju računarom, koriste svakodnevno internet za razonodu, znaje da koriste osnovne programe koji prosečan računar ima (Word, PowerPoint, Skype). Programiranje su probali eventualno u srednjoj školi u okviru časova informatike, ali nemaju većeg iskustva sa tim.
