@@ -22,3 +22,5 @@ Ako je jedini razlog za učenje programiranja "zato što u tome ima para", tešk
 
 ## Sajtovi za učenje
 
+## Privatne škole programiranje - da ili ne?
+
