@@ -52,7 +52,22 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
 
 - Lokalni web server - ovo je softver koji nije neophodan na početku učenja, već u kasnijoj fazi kada polaznik više ovlada osnovnim tehnologijama. Jedan od dobrih rešenja je [XAMPP](https://www.apachefriends.org/index.html), ali ima dosta različitih servera koji jako dobro završavaju posao. 
 
-## Koraci
+## Postupak
+
+Postupak je podeljen u dve oblasti - jedna je striktno programiranje, dok druga obuhvata stvari koje su neophodne za produktivnost i efikasnost u radu. Ove dve oblasti bi bez problema mogle paralelno da se izučavaju. 
+
+### Programiranje
+
+- HTML i CSS
+- JavaScript i jQuery
+- PHP i MySQL
+- Uvođenje PHP Framework-a
+- Frontend JavaScript Framework
+- Testiranje (Backend i Frontend)
+
+### Produktivnost
+- GitHub
+- Upravljane Projektima
 
 ## Sajtovi za učenje
 
