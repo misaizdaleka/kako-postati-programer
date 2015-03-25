@@ -38,10 +38,10 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
 
 ### Softver
 - Editor - ovo je program u kome ćete kucati svoj kôd. Za početnika izbor nije toliko bitan dokle god se ne koristi Notepad iz Windows-a. Odličan za početak je [Notepad++](http://notepad-plus-plus.org/). Kada se dovoljno napreduje u znanju, valja razmisliti i o malo ozbiljnijim editorima kao i celim razvojnim okruženjima (IDE-ima) poput:
-⋅⋅⋅[Sublime Text 3](https://www.sublimetext.com/) (može se koristiti besplatno)
-⋅⋅⋅PhpStorm (plaća se)
-⋅⋅⋅WebStorm (plaća se)
-⋅⋅⋅Netbeans (može se koristiti besplatno)
+   [Sublime Text 3](https://www.sublimetext.com/) (može se koristiti besplatno)
+   PhpStorm (plaća se)
+   ⋅WebStorm (plaća se)
+   ⋅Netbeans (može se koristiti besplatno)
 
 - Pretraživač(i)
 
