@@ -29,6 +29,20 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
 
 ## Alati
 
+### Hardver
+- Računar
+Za programiranje nije potreban jak računar - bilo koja mašina kupljena poslednjih 4-5 godina će završiti posao (može i starija, mada će komfor u radu biti verovatno manji). Nije potrebna jaka grafička kartica niti mnogo RAM memorije, mada ovo drugo jeste poželjno. 
+
+Bilo bi dobro da je monitor veće dijagonale, čisto zbog preglednosti, ali nije ni to nephodno. Bilo šta preko 20 inča će biti sasvim ok za udoban rad. Profesionalci doduše vole da vežu dva ili čak i više monitora, što poboljšava udobnost, naravno. 
+
+- Internet
+Pristup internetu je važan, jer omogućava korišćenje online dokumentacije i tutorijala za učenje. Brzina nije bitna - sve što je dovoljno za prosečno surfovanje, biće sasvim ok i za programiranje. 
+
+### Softver
+- Editor
+
+- Pretraživač(i)
+
 ## Koraci
 
 ## Sajtovi za učenje
