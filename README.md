@@ -63,7 +63,7 @@ Prve četiri stavke su obavezne da bi se dostigao nivo dovoljan za neko početni
 1. HTML i CSS
 2. JavaScript i jQuery
 3. PHP i MySQL
-4. Uvođenje PHP Framework-a
+4. PHP Framework
 5. Frontend JavaScript Framework
 6. Testiranje (Backend i Frontend)
 
