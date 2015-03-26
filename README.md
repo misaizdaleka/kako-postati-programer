@@ -1,6 +1,9 @@
 # Kako krenuti sa programiranjem
 Uputstvo za sve koji bi sami želeli da nauče da programiraju
 
+## Koji je cilj ovog uputstva?
+Cilj uputstva je da kandidatima predstavi najefikasniji put za učenje programiranja i dolaska do nivoa koji omogućava zaposlenje. Ovo podrazumeva i "hvatanje krivina", što znači da se neki bitni koncepti svesno preskaču (ili stavljaju u drugi plan) kako bi se što pre stiglo do suštine. Ukoliko kandidat želi temeljno i dubinsko upoznavanje sa materijom, najbolje je da upiše neki od fakulteta sa računarskim smerom. Ovo uputstvo nije namenjeno njima. 
+
 ## Kome je ovo uputstvo namenjeno?
 Ovo uputstvo je namenjeno ljudima koji nisu studirali ili završili bilo kakvu školu IT vrste (elektronski/elektrotehnički fakultet, višu IT školu itd). Oni solidno barataju računarom, koriste svakodnevno internet za razonodu, znaju da koriste osnovne programe koji prosečan računar ima (Word, PowerPoint, Skype). Programiranje su probali eventualno u srednjoj školi u okviru časova informatike, ali nemaju većeg iskustva sa tim.
 
