@@ -2,7 +2,7 @@
 Uputstvo za sve koji bi sami želeli da nauče da programiraju
 
 ## Kome je ovo uputstvo namenjeno?
-Ovo uputstvo je namenjeno ljudima koji nisu studirali ili završili bilo kakvu školu IT vrste (elektronski/elektrotehnički fakultet, višu IT školu itd). Oni solidno barataju računarom, koriste svakodnevno internet za razonodu, znaje da koriste osnovne programe koji prosečan računar ima (Word, PowerPoint, Skype). Programiranje su probali eventualno u srednjoj školi u okviru časova informatike, ali nemaju većeg iskustva sa tim.
+Ovo uputstvo je namenjeno ljudima koji nisu studirali ili završili bilo kakvu školu IT vrste (elektronski/elektrotehnički fakultet, višu IT školu itd). Oni solidno barataju računarom, koriste svakodnevno internet za razonodu, znaju da koriste osnovne programe koji prosečan računar ima (Word, PowerPoint, Skype). Programiranje su probali eventualno u srednjoj školi u okviru časova informatike, ali nemaju većeg iskustva sa tim.
 
 Oni žele da nauče da programiraju, ali nisu spremni da upisuju fakultet ili državnu školu. Krajnji cilj im je da nađu zaposlenje u ovoj oblasti i da od tog posla žive. 
 
@@ -66,6 +66,8 @@ Prve četiri stavke su obavezne da bi se dostigao nivo dovoljan za neko početni
 4. Uvođenje PHP Framework-a
 5. Frontend JavaScript Framework
 6. Testiranje (Backend i Frontend)
+
+Redosled oblasti jeste bitan i ide od osnovnih koncepata prema naprednim. 
 
 ### Produktivnost
 - GitHub
