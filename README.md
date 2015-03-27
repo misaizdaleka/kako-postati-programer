@@ -10,9 +10,12 @@ Ovo uputstvo je namenjeno ljudima koji nisu studirali ili završili bilo kakvu �
 Oni žele da nauče da programiraju, ali nisu spremni da upisuju fakultet ili državnu školu. Krajnji cilj im je da nađu zaposlenje u ovoj oblasti i da od tog posla žive. 
 
 ## Na koji tip programiranja ovo uputstvo cilja?
-Većina programera će se složiti da je, za nekog ko se nikada nije bavio programiranjem, najlakše ući u takozvano _web programiranje_. Ovaj tip programiranja obično podrazumeva pravljenje web sajtova. Svi internet sajtovi koje posećujete su nastali na ovaj način. 
+Na _web programiranje_. Ovaj tip programiranja obično podrazumeva pravljenje web sajtova. Svi internet sajtovi koje posećujete su nastali na ovaj način. Uputstvo je pre svega posvećeno web programiranju iz dva razloga:
 
-To što je web programiranje najbolji izbor za kompletnog početnika ne znači da ćete za mnogo kraće vreme naučiti isto koliko bi vam trebalo za neki drugi tip programiranja (Java, C++, itd), već samo da sa relativno malo znanja možete da dobijete korisne rezultate. I dalje važi da je za vrhunskog web programera potrebno isto što i za bilo kog drugog - mnogo rada, učenja, posvećenosti i istrajnosti. 
+1. Većina programera će se složiti da je, za nekog ko se nikada nije bavio programiranjem, najlakše upoznati se sa web programiranjem
+2. Gledajući IT firme u Srbiji po vrsti, ubedljivo najveći deo (sigurno preko 50%) se bavi web programiranjem, te je šanse za zaposlenje tu i najveća
+
+To što je web programiranje najbolji izbor za kompletnog početnika ne znači da ćete za mnogo kraće vreme dostići nivo znanja za koji bi vam trebalo mnogo više kod nekog drugog tipa programiranja (Java, C++, itd), već samo da sa relativno malo znanja možete da dobijete korisne rezultate. I dalje važi da je za vrhunskog web programera potrebno isto što i za bilo kog drugog - mnogo rada, učenja, posvećenosti i istrajnosti. 
 
 ## Preduslovi
 
@@ -88,7 +91,7 @@ U vezi sa prethodnim savetom - nakon što budete prešli oblasti 1 i 2, kako na 
 
 ## Sajtovi za učenje
 
-### Srpsko sajtovi
+### Sajtovi na srpskom
 
 ## Privatne škole programiranje - da ili ne?
 
