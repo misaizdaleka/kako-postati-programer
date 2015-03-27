@@ -70,13 +70,25 @@ Prve četiri stavke su obavezne da bi se dostigao nivo dovoljan za neko početni
 5. Frontend JavaScript Framework
 6. Testiranje (Backend i Frontend)
 
-Redosled oblasti jeste bitan i ide od osnovnih koncepata prema naprednim. 
+Redosled oblasti jeste bitan i ide od osnovnih koncepata prema naprednim. Ovo uputstvo će pokriti prve četiri oblasti. 
 
 ### Produktivnost
 - GitHub
 - Upravljane Projektima
 
+## Učenje
+
+Pod pretpostavkom da kandidat zna engleski, najbolje mesto za početak je [Code Academy](http://www.codecademy.com/). Nakon što napravite nalog, na ovom sajtu ćete kroz interaktivne tutorijale moći da pređete prve tri oblasti sem MySQL-a (znači HTML, CSS, JavaScript, jQuery i PHP). Tutorijali su relativno kratki i prilagođeni apsolutnim početnicima. 
+
+Paralelno sa ovim tutorijalima, valja posećivati i [W3Schools](http://www.w3schools.com/). Ovaj sajt takođe ima tutorijale, ali odrađene na malo drugačiji način. Oni pokrivaju sve oblasti iz sve prve 3 oblasti uključujući i MySQL. Povrh toga, postoje i tutorijali za mnoge druge oblasti web programiranja koje ovo uputstvo ne pokriva. 
+
+Jako je bitno da se učenju pristupi temeljno - nije dovoljno samo proći kroz tutorijale, potrebno je razumeti ih do detalja. Zbog toga, treba što više eksperimentisati sa primerima čak i izvan tutorijala. Interesuje vas kako da prikažete ~~precrtana slova~~ u HTML-u? Izguglajte! Hoćete da kvadrat na ekranu promeni boju iz crvene u plavu na klik na dugme? Izguglajte! Što više budete vežbali, više ćete i naučiti. 
+
+U vezi sa prethodnim savetom - nakon što budete prešli oblasti 1 i 2, kako na CodeAcademy, tako i na W3Schools, bilo bi dobro da bar nedelju-dve posvetite primeni tog znanja u nekom konkretnijem primeru. Recimo, da probate da sastavite stranu koja će da liči na spisak proizvoda sa [WinWin-ovog sajta](http://www.winwin.rs/mobilni-i-fiksni-telefoni/mobilni-telefoni.html)? Ili možda stranica [Politike sa najnovijim vestima](http://www.politika.rs/vesti/najnovije-vesti/index.1.sr.html)? Ne treba očekivati da možete da napravite istovetne stranice, samo nešto što približno liči na to. U procesu rada i učenja, kad god nešto nije jasno, treba se najviše oslanjati na Gugl, jer će vam on uvek dati odgovor ako umete da postavite pravo pitanje. U 99.99% slučajeva, neko je već imao problem sa kojim se vi susrećete, rešenje je već negde zapisano, samo ga treba naći. 
+
 ## Sajtovi za učenje
+
+### Srpsko sajtovi
 
 ## Privatne škole programiranje - da ili ne?
 
