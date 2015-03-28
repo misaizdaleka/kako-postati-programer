@@ -36,7 +36,7 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
 ## Alati
 
 ### Hardver
-- Računar - za programiranje nije potreban jak računar - bilo koja mašina kupljena poslednjih 4-5 godina će završiti posao (može i starija, mada će komfor u radu biti verovatno manji). Nije potrebna jaka grafička kartica niti mnogo RAM memorije, mada ovo drugo jeste poželjno. 
+- Računar - za programiranje nije potreban jak računar - bilo koja mašina kupljena u poslednjih 4-5 godina će završiti posao (može i starija, mada će komfor u radu biti manji). Nije potrebna jaka grafička kartica niti mnogo RAM memorije, mada ovo drugo jeste poželjno. 
   * Monitor - bilo bi dobro da je monitor veće dijagonale, čisto zbog preglednosti, ali nije ni to nephodno. Bilo šta preko 20 inča će biti sasvim ok za udoban rad. Profesionalci doduše vole da vežu dva ili čak i više monitora, što poboljšava udobnost, naravno. 
 
 - Internet - pristup internetu je važan, jer omogućava korišćenje online dokumentacije i tutorijala za učenje. Brzina nije bitna - sve što je dovoljno za prosečno surfovanje, biće sasvim ok i za programiranje. 
@@ -87,6 +87,10 @@ Paralelno sa ovim tutorijalima, valja posećivati i [W3Schools](http://www.w3sch
 Jako je bitno da se učenju pristupi temeljno - nije dovoljno samo proći kroz tutorijale, potrebno je razumeti ih do detalja. Zbog toga, treba što više eksperimentisati sa primerima čak i izvan tutorijala. Interesuje vas kako da prikažete ~~precrtana slova~~ u HTML-u? Izguglajte! Hoćete da kvadrat na ekranu promeni boju iz crvene u plavu na klik na dugme? Izguglajte! Što više budete vežbali, više ćete i naučiti. 
 
 U vezi sa prethodnim savetom - nakon što budete prešli oblasti 1 i 2, kako na CodeAcademy, tako i na W3Schools, bilo bi dobro da bar nedelju-dve posvetite primeni tog znanja u nekom konkretnijem primeru. Recimo, da probate da sastavite stranu koja će da liči na spisak proizvoda sa [WinWin-ovog sajta](http://www.winwin.rs/mobilni-i-fiksni-telefoni/mobilni-telefoni.html)? Ili možda stranica [Politike sa najnovijim vestima](http://www.politika.rs/vesti/najnovije-vesti/index.1.sr.html)? Ne treba očekivati da možete da napravite istovetne stranice, samo nešto što približno liči na to. U procesu rada i učenja, kad god nešto nije jasno, treba se najviše oslanjati na Gugl, jer će vam on uvek dati odgovor ako umete da postavite pravo pitanje. U 99.99% slučajeva, neko je već imao problem sa kojim se vi susrećete, rešenje je već negde zapisano, samo ga treba naći. 
+
+Nakon koraka 1 i 2, koraku 3 treba pristupiti na isti način - preći sve tutorijale, a onda odraditi što je moguće više primera sami. Nakon toga možete krenuti sa izradom svog prvog veb-sajta. To može biti jednostavna prodavnica sa spiskom proizvoda, korpom, registracijom korisnika. 
+
+Pošto ste napravili svoj prvi sajt i potvrdili da radi solidno, možete se posvetiti sledećem koraku, a to je programiranje istog sajta ispočetka, ali ovog puta u PHP framework-u. Jedan od poznatijih framework-ova, koji još ima i dosta veliku zajednicu, a odličan je za početnike, je [Laravel](http://laravel.com/). 
 
 ## Sajtovi za učenje
 
