@@ -70,13 +70,13 @@ Prve četiri stavke su obavezne da bi se dostigao nivo dovoljan za neko početni
 3. PHP i MySQL
 4. PHP Framework
 5. Frontend JavaScript Framework
-6. Testiranje (Backend i Frontend)
+6. Pisanje testova (Backend i Frontend)
 
 Redosled oblasti jeste bitan i ide od osnovnih koncepata prema naprednim. Ovo uputstvo će pokriti prve četiri oblasti. 
 
 ### Produktivnost
-- GitHub
-- Upravljane Projektima
+- Github
+- Upravljane projektima
 
 ## Učenje
 
