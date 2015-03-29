@@ -68,7 +68,9 @@ Prve četiri stavke su obavezne da bi se dostigao nivo dovoljan za neko početni
 1. HTML i CSS
 2. JavaScript i jQuery
 3. PHP i MySQL
-4. PHP Framework
+  3a. Izrada jednostavnog web sajta
+4. PHP Framework - osnove
+  4a. Prebacivanje prethodnog sajta u PHP framework i dodavanje funkcionalnosti
 5. Frontend JavaScript Framework
 6. Pisanje testova (Backend i Frontend)
 
@@ -91,6 +93,20 @@ U vezi sa prethodnim savetom - nakon što budete prešli oblasti 1 i 2, kako na 
 Nakon koraka 1 i 2, koraku 3 treba pristupiti na isti način - preći sve tutorijale, a onda odraditi što je moguće više primera sami. Nakon toga možete krenuti sa izradom svog prvog veb-sajta. To može biti jednostavna prodavnica sa spiskom proizvoda, korpom, registracijom korisnika. 
 
 Pošto ste napravili svoj prvi sajt i potvrdili da radi solidno, možete se posvetiti sledećem koraku, a to je programiranje istog sajta ispočetka, ali ovog puta u PHP framework-u. Jedan od poznatijih framework-ova, koji još ima i dosta veliku zajednicu, a odličan je za početnike, je [Laravel](http://laravel.com/). 
+
+Framework-ovi se u velikoj meri baziraju na [objektno-orijentisanom programiranju](http://en.wikipedia.org/wiki/Object-oriented_programming) (skraćeno OOP), a to je opet nauka za sebe koju takođe treba poznavati, bar u osnovama. Ovo programiranje inače nije vezano za određeni programski jezik, već se u većini može primeniti. Postoji puno različitih tutorijala za OOP i to možete učiti paralelno sa uvođenjem framework-a, ili pre njega. Inače, OOP kao predmet se uči na nižim godinama IT studija, kao osnova za sve dalje učenje programskih jezika. 
+
+Ako ste sve navedeno dovoljno temeljno prešli, treba da budete u poziciji gde već poznajete osnovne principe web programiranja i umete da napravite jednostavnije veb sajtove. Takvo znanje bi trebalo da bude dovoljno za praksu u nekoj firmi koja se bavi sličnim uslugama. 
+
+### Učenje - produktivnost
+
+Prvi alat za produktivnost je Github. To je upravo sajt na kome se nalazi ovaj dokument. Github služi za skladištenje vašeg kôda online, pri čemu se svaka njegova verzija pamti u obliku tzv. _commit_-ova. Ako odete na spisak commit-ova [za ovaj dokument](https://github.com/misaizdaleka/kako-postati-programer/commits/master), moći ćete tačno da vidite kako je ovaj dokument nastajao, korak po korak. Github je jako popularan među programerskim firmama, te je njegovo poznavanje prednost. 
+
+Drugi alat, ili bolje reći set alata, jesu sajtovi za upravljanje projektima. Oni omogućavaju nadzor i upravljanje razvojem projekata kao i programerima koji na njima rade. Konkretno, jedna od glavnih karakteristika je mogućnost dodeljivanja zadataka (task-ova) programerima i praćenje njihovog napretka. Jedan od jednostavnijih alata ovog tipa je i [Trello](https://trello.com/).
+
+Github i Trello možete da koristite kada krenete da pravite sopstveni sajt - korak 3a. Doduše, Trello (i slični alati) najviše imaju smisla kada na projektu radi ceo tim, ali vas niko ne sprečava da sâmi sebi zadajete taskove i na taj način vodite evidenciju o svom napretku. Evo kako bi Trello tabla mogla da izgleda:
+
+![Trello tabla](http://s27.postimg.org/mhg3j3677/screen_1517.jpg "Trello tabla sa projektom")
 
 ## Sajtovi za učenje
 
