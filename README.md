@@ -90,7 +90,7 @@ Jako je bitno da se učenju pristupi temeljno - nije dovoljno samo proći kroz t
 
 U vezi sa prethodnim savetom - nakon što budete prešli oblasti 1 i 2, kako na CodeAcademy, tako i na W3Schools, bilo bi dobro da bar nedelju-dve posvetite primeni tog znanja u nekom konkretnijem primeru. Recimo, da probate da sastavite stranu koja će da liči na spisak proizvoda sa [WinWin-ovog sajta](http://www.winwin.rs/mobilni-i-fiksni-telefoni/mobilni-telefoni.html)? Ili možda stranica [Politike sa najnovijim vestima](http://www.politika.rs/vesti/najnovije-vesti/index.1.sr.html)? Ne treba očekivati da možete da napravite istovetne stranice, samo nešto što približno liči na to. U procesu rada i učenja, kad god nešto nije jasno, treba se najviše oslanjati na Gugl, jer će vam on uvek dati odgovor ako umete da postavite pravo pitanje. U 99.99% slučajeva, neko je već imao problem sa kojim se vi susrećete, rešenje je već negde zapisano, samo ga treba naći. 
 
-Nakon koraka 1 i 2, koraku 3 treba pristupiti na isti način - preći sve tutorijale, a onda odraditi što je moguće više primera sami. Nakon toga možete krenuti sa izradom svog prvog veb-sajta. To može biti jednostavna prodavnica sa spiskom proizvoda, korpom, registracijom korisnika. 
+Nakon koraka 1 i 2, koraku 3 treba pristupiti na isti način - preći sve tutorijale, a onda odraditi što je moguće više primera sami. Dobar sajt za učenje PHP je [PHP.net](http://php.net/). Nakon toga možete krenuti sa izradom svog prvog veb-sajta (korak 3a). To može biti jednostavna prodavnica sa spiskom proizvoda, korpom, registracijom korisnika. 
 
 Pošto ste napravili svoj prvi sajt i potvrdili da radi solidno, možete se posvetiti sledećem koraku, a to je programiranje istog sajta ispočetka, ali ovog puta u PHP framework-u. Jedan od poznatijih framework-ova, koji još ima i dosta veliku zajednicu, a odličan je za početnike, je [Laravel](http://laravel.com/). 
 
@@ -109,6 +109,12 @@ Github i Trello možete da koristite kada krenete da pravite sopstveni sajt - ko
 ![Trello tabla](http://s27.postimg.org/mhg3j3677/screen_1517.jpg "Trello tabla sa projektom")
 
 ## Sajtovi za učenje
+
+- [Code Academy](http://www.codecademy.com/)
+- [W3Schools](http://www.w3schools.com/)
+- [PHP.net](http://php.net/)
+- [Laravel](http://laravel.com/)
+- [StackOverflow](http://stackoverflow.com/)
 
 ### Sajtovi na srpskom
 
