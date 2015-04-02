@@ -110,13 +110,20 @@ Github i Trello možete da koristite kada krenete da pravite sopstveni sajt - ko
 
 ## Sajtovi za učenje
 
-- [Code Academy](http://www.codecademy.com/)
-- [W3Schools](http://www.w3schools.com/)
-- [PHP.net](http://php.net/)
-- [Laravel](http://laravel.com/)
 - [StackOverflow](http://stackoverflow.com/)
+  Broj 1 mesto za svakog programera koji ima neki problem. Najverovatnije sajt koji ćete najčešće posećivati u toku svog učenja
+- [Code Academy](http://www.codecademy.com/)
+  Sadrži interaktivne tutorijale za apsolutne početnike
+- [W3Schools](http://www.w3schools.com/)
+  Takođe tutorijali za različite programerske discipline
+- [PHP.net](http://php.net/)
+  Sajt sa detaljnom dokumentacijom za PHP programski jezik
+- [Laravel](http://laravel.com/)
+  Sajt sa dokumentacijom za Laravel PHP framework
 
 ### Sajtovi na srpskom
+ - [EliteSecurity](http://www.elitesecurity.org/)
+  Programerski forum za ex-yu prostor, detaljno podeljen i organizovan po programskim jezicima. Nije više toliko posećen kao što je nekad bio. Ime sajta totalna nepoznanica. 
 
 ## Privatne škole programiranje - da ili ne?
 
