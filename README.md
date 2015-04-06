@@ -127,5 +127,9 @@ Github i Trello možete da koristite kada krenete da pravite sopstveni sajt - ko
 
 ## Privatne škole programiranje - da ili ne?
 
+Ukoliko nemate radnu naviku ili vam je teško da sami radite kod kuće, privatne škole mogu biti dobar izbor. Još jedna prednost je i to što na kraju kursa dobijate i određeni sertifikat koji potvrđuje stečena znanja. Ipak, na intervjuu za posao uvek će se više ceniti projekti iza vas (bili oni čak samo deo učenja, a ne posla) nego sertifikat iz privatne škole. 
+
+Takođe, imajući u vidu da je profesija programera jako cenjena i da se može lepo zaraditi, za svakog iole dobrog programera nema smisla da radi u privatnoj IT školi gde su plate sigurno neuporedivo niže nego u programiranju. Drugim rečima, najbolji programeri nisu predavači u školama, već su zapošljeni u programerskim firmama. To ne znači da se u privatnim školama nema šta naučiti, ali je činjenica da se najkvalitetnije znanje stiče kroz sâm rad, a još bolje se napreduje ako imate pored sebe kolegu koji je iskusniji od vas. 
+
 ## Reference autora ovog uputstva
 
