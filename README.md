@@ -136,3 +136,11 @@ Takođe, imajući u vidu da je profesija programera jako cenjena i da se može l
 ## Reference autora ovog uputstva
 
 Kreator ovog uputstva se profesionalno bavi web programiranjem više od 4 godine. U toku svoje karijere je pomogao dvojici prijatelja koji nisu iz IT sveta da nauče da programiraju i uspešno se otisnu u IT vode. Obojica su sada zapošljeni na stalno, od čega jedan radi direktno za inostranog klijenta već više od godinu dana. 
+
+## Napomene
+
+Ne postoji univerzalan i jedinstven odgovor na pitanje kako naučiti programiranje. Pristup iznešen u ovom tekstu se neće dopasti svim programerima; on je pre svega rezultat iskustva koji je autor stekao tokom svog rada sa prijateljima koje je obučavao. 
+
+## Želite da date svoj doprinos ovom tekstu?
+
+Ako ste programer, ne slažete se sa pristupom učenju koji je ovde opisan, a verujete da imate dobre argumente da se neki delovi teksta promene, ili ste početnik koji želi da nauči programiranje kome određeni delovi teksta nisu jasni i želi da autor bolje objasni, možete prijaviti problem [ovde](https://github.com/misaizdaleka/kako-postati-programer/issues/new) pa ćemo zajedno prodiskutovati i unaprediti sadržaj.
