@@ -82,6 +82,8 @@ Redosled oblasti jeste bitan i ide od osnovnih koncepata prema naprednim. Ovo up
 
 ## Učenje
 
+### Programiranje
+
 Pod pretpostavkom da kandidat zna engleski, najbolje mesto za početak je [Code Academy](http://www.codecademy.com/). Nakon što napravite nalog, na ovom sajtu ćete kroz interaktivne tutorijale moći da pređete prve tri oblasti sem MySQL-a (znači HTML, CSS, JavaScript, jQuery i PHP). Tutorijali su relativno kratki i prilagođeni apsolutnim početnicima. 
 
 Paralelno sa ovim tutorijalima, valja posećivati i [W3Schools](http://www.w3schools.com/). Ovaj sajt takođe ima tutorijale, ali odrađene na malo drugačiji način. Oni pokrivaju sve oblasti iz sve prve 3 oblasti uključujući i MySQL. Povrh toga, postoje i tutorijali za mnoge druge oblasti web programiranja koje ovo uputstvo ne pokriva. 
@@ -98,7 +100,7 @@ Framework-ovi se u velikoj meri baziraju na [objektno-orijentisanom programiranj
 
 Ako ste sve navedeno dovoljno temeljno prešli, treba da budete u poziciji gde već poznajete osnovne principe web programiranja i umete da napravite jednostavnije veb sajtove. Takvo znanje bi trebalo da bude dovoljno za praksu u nekoj firmi koja se bavi sličnim uslugama. 
 
-### Učenje - produktivnost
+### Alati za produktivnost
 
 Prvi alat za produktivnost je Github. To je upravo sajt na kome se nalazi ovaj dokument. Github služi za skladištenje vašeg kôda online, pri čemu se svaka njegova verzija pamti u obliku tzv. _commit_-ova. Ako odete na spisak commit-ova [za ovaj dokument](https://github.com/misaizdaleka/kako-postati-programer/commits/master), moći ćete tačno da vidite kako je ovaj dokument nastajao, korak po korak. Github je jako popularan među programerskim firmama, te je njegovo poznavanje prednost. 
 
