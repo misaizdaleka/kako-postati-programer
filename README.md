@@ -53,7 +53,7 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
    [Netbeans](https://netbeans.org/) (može se koristiti besplatno)
    
 
-- Pretraživač(i) - rezultat vašeg rada (programiranja) je moguće videtu u browser-u (pretraživaču). Za web programiranje, najviše se koriste [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) i [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), kao i [Mozilla Firefox za programere](https://www.mozilla.org/en-US/firefox/developer/). Neki subjektivni utisak je da je Chrome najbrži, ali da isto tako zahteva i jak računar da bi se ta nadmoć u brzini osetila. 
+- Pretraživač(i) - rezultat vašeg rada (programiranja) je moguće videti u browser-u (pretraživaču). Za web programiranje, najviše se koriste [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) i [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), kao i [Mozilla Firefox za programere](https://www.mozilla.org/en-US/firefox/developer/). Neki subjektivni utisak je da je Chrome najbrži, ali da isto tako zahteva i jak računar da bi se ta nadmoć u brzini osetila. 
 
 - Lokalni web server - ovo je softver koji nije neophodan na početku učenja, već u kasnijoj fazi kada polaznik više ovlada osnovnim tehnologijama. Jedan od dobrih rešenja je [XAMPP](https://www.apachefriends.org/index.html), ali ima dosta različitih servera koji jako dobro završavaju posao. 
 
