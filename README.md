@@ -74,7 +74,9 @@ Prve četiri stavke su obavezne da bi se dostigao nivo dovoljan za neko početni
 5. Frontend JavaScript Framework
 6. Pisanje testova (Backend i Frontend)
 
-Redosled oblasti jeste bitan i ide od osnovnih koncepata prema naprednim. Ovo uputstvo će pokriti prve četiri oblasti. 
+Redosled oblasti jeste bitan i ide od osnovnih koncepata prema naprednim. Oblasti se ne uče nezavisno od prethodno pređenih, već se nadograđuju na naučeno. Na primer, kada pređete HTML i CSS, onda učite JavaScipt i jQuery, ali pri tom sve vreme koristite i HTML i CSS. Potom, kada pređete na PHP, opet sa njim koristite i prethodno pređeno. Tako do kraja. 
+
+Ovo uputstvo će pokriti prve četiri oblasti. 
 
 ### Produktivnost
 - Github
