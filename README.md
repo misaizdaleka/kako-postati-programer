@@ -13,7 +13,7 @@ Oni žele da nauče da programiraju, ali nisu spremni da upisuju fakultet ili dr
 Na _web programiranje_. Ovaj tip programiranja obično podrazumeva pravljenje web sajtova. Svi internet sajtovi koje posećujete su nastali na ovaj način. Uputstvo je pre svega posvećeno web programiranju iz dva razloga:
 
 1. Većina programera će se složiti da je, za nekog ko se nikada nije bavio programiranjem, najlakše upoznati se sa web programiranjem
-2. Gledajući IT firme u Srbiji po vrsti, ubedljivo najveći deo (sigurno preko 50%) se bavi web programiranjem, te je šanse za zaposlenje tu i najveća
+2. Gledajući IT firme u Srbiji po vrsti, ubedljivo najveći deo (sigurno preko 50%) se bavi web programiranjem, te su šanse za zaposlenje tu i najveća
 
 To što je web programiranje najbolji izbor za kompletnog početnika ne znači da ćete za mnogo kraće vreme dostići nivo znanja za koji bi vam trebalo mnogo više kod nekog drugog tipa programiranja (Java, C++, itd), već samo da sa relativno malo znanja možete da dobijete korisne rezultate. I dalje važi da je za vrhunskog web programera potrebno isto što i za bilo kog drugog - mnogo rada, učenja, posvećenosti i istrajnosti. 
 
@@ -27,7 +27,7 @@ Poznavanje engleskog jezika je takođe jedan od najbitnijih faktora za učenje p
 
 Minimalni nivo koji bi omogućio nesmetano učenje programiranja je onaj gde kandidat može da razume pisani engleski. Nije potrebno razumeti usmeni, ali naravno da znači imajući u vidu da je sve više i više materijala i na Youtube-u. 
 
-Posebna priča je nivo koji je potreban za ozbiljno bavljenje ovim poslom: što više, to bolje. Ko zna engleski tako da može tečno da ga govori, lakše će moći da komunicira sa svojim klijentima, što može da se pozitivni odrazi i na platu. 
+Posebna priča je nivo koji je potreban za ozbiljno bavljenje ovim poslom: što više, to bolje. Ko zna engleski tako da može tečno da ga govori, lakše će moći da komunicira sa svojim klijentima, što se obično pozitivno odražava i na platu. 
 
 Moguće je naučiti i programiranje bez engleskog, doduše dosta teže. Ali razmislite: većina programerskih firmi u Srbiji radi za inostrane klijente. Da li želite da maltene budete odsečeni od bilo kakve mogućnosti da radite za strance, gde su uslovi (znači i zarada) uvek bolji nego domaćih klijenata?
 
