@@ -110,6 +110,12 @@ Github i Trello možete da koristite kada krenete da pravite sopstveni sajt - ko
 
 ![Trello tabla](http://s27.postimg.org/mhg3j3677/screen_1517.jpg "Trello tabla sa projektom")
 
+## Koristite Gugl
+
+Većina čak i iskusnih programera se svakodnevno oslanja na Gugl pretragu kako bi došlo do rešenja za probleme koje imaju u svom radu. Zato je izuzetno bitno da koristite pretragu i da umete efikasno i brzo da pretražujete. Uvek treba imati na umu da je problem koji imate, posebno ako ste početnik, već negde neko imao i rešio ga, te se i odgovor verovatno nalazi negde online, samo ga je potrebno naći.
+
+Znači, što više budete koristili tuđa iskustva u radu (koja ćete nalaziti preko pretrage), brže ćete i sami napredovati sa svojim znanjem. 
+
 ## Sajtovi za učenje
 
 - [StackOverflow](http://stackoverflow.com/)
