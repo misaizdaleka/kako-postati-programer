@@ -46,6 +46,8 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
 
    [Sublime Text 3](https://www.sublimetext.com/) (može se koristiti besplatno) 
    
+   [Brackets](http://brackets.io/) (može se koristiti besplatno)
+   
    [PhpStorm](https://www.jetbrains.com/phpstorm/) (plaća se, prvih 30 dana besplatno) 
    
    [WebStorm](https://www.jetbrains.com/webstorm/) (plaća se, prvih 30 dana besplatno)
