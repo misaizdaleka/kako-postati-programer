@@ -122,16 +122,28 @@ Znači, što više budete koristili tuđa iskustva u radu (koja ćete nalaziti p
 
 ## Sajtovi za učenje
 
-- [StackOverflow](http://stackoverflow.com/)
+### Sajtovi sa dokumentacijom i gde se mogu naći odgovori na različita pitanja
+
+- [StackOverflow](http://stackoverflow.com/) - 
   Broj 1 mesto za svakog programera koji ima neki problem. Najverovatnije sajt koji ćete najčešće posećivati u toku svog učenja
-- [Code Academy](http://www.codecademy.com/)
-  Sadrži interaktivne tutorijale za apsolutne početnike
-- [W3Schools](http://www.w3schools.com/)
-  Takođe tutorijali za različite programerske discipline
-- [PHP.net](http://php.net/)
+- [PHP.net](http://php.net/) - 
   Sajt sa detaljnom dokumentacijom za PHP programski jezik
-- [Laravel](http://laravel.com/)
+- [Laravel](http://laravel.com/) - 
   Sajt sa dokumentacijom za Laravel PHP framework
+
+### Sajtovi sa tutorijalima
+- [Code Academy](http://www.codecademy.com/) - 
+  Sadrži interaktivne tutorijale za apsolutne početnike
+- [W3Schools](http://www.w3schools.com/) - 
+  Takođe tutorijali za različite programerske discipline
+- [Udemy](https://www.udemy.com) - 
+  Slično prethodnim
+- [Lynda](http://www.lynda.com/) - 
+  Kao i prethodni
+- [Coursera](https://www.coursera.org/) - 
+  Sadrži tutorijale za jako širok spektar znanja i nauka (ne samo programiranje), besplatan, ali je u formi koja mnogo više odgovara studiranju na fakultetu, nego klasičnim tutorijalima
+
+Za neke od ovih sajtova treba plaćati mesečnu pretplatu. Iako ima mnogo drugih besplatnih rešenja, i plaćeni sajtovi imaju svojih prednosti, te bi trebalo razmisliti o ulaganju novca u ovako nešto. Proces plaćanja ne bi trebalo da vas brine - ako imate račun u banci sa dinarima, lako ćete otvoriti PayPal nalog i platiti kurseve. 
 
 ### Sajtovi na srpskom
  - [EliteSecurity](http://www.elitesecurity.org/)
