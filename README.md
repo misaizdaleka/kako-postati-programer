@@ -156,7 +156,7 @@ Ukoliko nemate radnu naviku ili vam je teško da sami radite kod kuće, privatne
 Takođe, imajući u vidu da je profesija programera jako cenjena i da se može lepo zaraditi, za svakog iole dobrog programera nema smisla da radi u privatnoj IT školi gde su plate sigurno neuporedivo niže nego u programiranju. Drugim rečima, najbolji programeri nisu predavači u školama, već su zapošljeni u programerskim firmama. To ne znači da se u privatnim školama nema šta naučiti, jer dobar predavač ne mora obavezno da bude i izuzetan programer, ali je činjenica da se najkvalitetnije znanje stiče kroz sâm rad, a još bolje se napreduje ako imate pored sebe kolegu koji je iskusniji od vas. 
 
 ## Reference autora ovog uputstva
-[LinkedIn profil autora](rs.linkedin.com/in/milosboskovic)
+[LinkedIn profil autora](http://rs.linkedin.com/in/milosboskovic)
 
 Kreator ovog uputstva se profesionalno bavi web programiranjem više od 4 godine. U toku svoje karijere je pomogao dvojici prijatelja koji nisu iz IT sveta da nauče da programiraju i uspešno se otisnu u IT vode. Obojica su sada zapošljeni na stalno, od čega jedan radi direktno za inostranog klijenta već više od godinu dana. 
 
