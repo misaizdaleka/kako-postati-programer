@@ -48,6 +48,8 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
    
    [Brackets](http://brackets.io/) (može se koristiti besplatno)
    
+   [Atom](https://atom.io/) (može se koristiti besplatno)
+   
    [PhpStorm](https://www.jetbrains.com/phpstorm/) (plaća se, prvih 30 dana besplatno) 
    
    [WebStorm](https://www.jetbrains.com/webstorm/) (plaća se, prvih 30 dana besplatno)
