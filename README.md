@@ -148,7 +148,7 @@ Znači, što više budete koristili tuđa iskustva u radu (koja ćete nalaziti p
 Za neke od ovih sajtova treba plaćati mesečnu pretplatu. Iako ima mnogo drugih besplatnih rešenja, i plaćeni sajtovi imaju svojih prednosti, te bi trebalo razmisliti o ulaganju novca u ovako nešto. Proces plaćanja ne bi trebalo da vas brine - ako imate račun u banci sa dinarima, lako ćete otvoriti PayPal nalog i platiti kurseve. 
 
 ### Sajtovi na srpskom
- - [EliteSecurity](http://www.elitesecurity.org/)
+ - [EliteSecurity](http://www.elitesecurity.org/) -
   Programerski forum za ex-yu prostor, detaljno podeljen i organizovan po programskim jezicima. Nije više toliko posećen kao što je nekad bio. Ime sajta totalna nepoznanica. 
 
 ## Privatne škole programiranje - da ili ne?
