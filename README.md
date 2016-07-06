@@ -160,7 +160,7 @@ Takođe, imajući u vidu da je profesija programera jako cenjena i da se može l
 ## Reference autora ovog uputstva
 [LinkedIn profil autora](http://rs.linkedin.com/in/milosboskovic)
 
-Kreator ovog uputstva se profesionalno bavi web programiranjem više od 4 godine. U toku svoje karijere je pomogao dvojici prijatelja koji nisu iz IT sveta da nauče da programiraju i uspešno se otisnu u IT vode. Obojica su sada zapošljeni na stalno, od čega jedan radi direktno za inostranog klijenta već više od godinu dana. 
+Kreator ovog uputstva se profesionalno bavi web programiranjem više od 2011. godine. U toku svoje karijere je pomogao dvojici prijatelja koji nisu iz IT sveta da nauče da programiraju i uspešno se otisnu u IT vode. Obojica su sada zapošljeni na stalno, od čega jedan radi direktno za inostranog klijenta već više od godinu dana. 
 
 ## Napomene
 
