@@ -58,7 +58,9 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
    
    [Netbeans](https://netbeans.org/) (može se koristiti besplatno)
 
-   [Vim](http://www.vim.org/) - Editor za izuzetno napredne korisnike koji se može koristiti bez dodirivanja miša. Zahteva jako puno truda da se nauči, ali njegovi ljubitelji tvrde da onda, po brzini rada/kucanja, nijedan drugi editor ne može da mu parira (može se koristiti besplatno) 
+   [Vim](http://www.vim.org/) - (može se koristiti besplatno) 
+   
+   Editor za izuzetno napredne korisnike koji se može koristiti bez dodirivanja miša. Zahteva jako puno truda da se nauči, ali njegovi ljubitelji tvrde da onda, po brzini rada/kucanja, nijedan drugi editor ne može da mu parira 
 
 - Pretraživač(i) - rezultat vašeg rada (programiranja) je moguće videti u browser-u (pretraživaču). Za web programiranje, najviše se koriste [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) i [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), kao i [Mozilla Firefox za programere](https://www.mozilla.org/en-US/firefox/developer/). Neki subjektivni utisak je da je Chrome najbrži, ali da isto tako zahteva i jak računar da bi se ta nadmoć u brzini osetila. 
 
