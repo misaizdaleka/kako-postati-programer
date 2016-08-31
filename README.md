@@ -46,6 +46,8 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
 
    [Sublime Text 3](https://www.sublimetext.com/) (može se koristiti besplatno) 
    
+   * Jako je korisno ovladati korišćenjem editora, u smislu da poznajete sve shortcut-ove na tastaturi i da se oslanjate na miša što je moguće manje (jer time postajete znatno brži u svom radu). Postoji sjajan tutorijal za Sublime koji pokazuje sve njegove kvalitete i mogućnosti, a nalazi se [ovde](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2). 
+   
    [Brackets](http://brackets.io/) (može se koristiti besplatno)
    
    [Atom](https://atom.io/) (može se koristiti besplatno)
@@ -55,7 +57,8 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
    [WebStorm](https://www.jetbrains.com/webstorm/) (plaća se, prvih 30 dana besplatno)
    
    [Netbeans](https://netbeans.org/) (može se koristiti besplatno)
-   
+
+   [Vim](http://www.vim.org/) - Editor za izuzetno napredne korisnike koji se može koristiti bez dodirivanja miša. Zahteva jako puno truda da se nauči, ali njegovi ljubitelji tvrde da onda, po brzini rada/kucanja, nijedan drugi editor ne može da mu parira (može se koristiti besplatno) 
 
 - Pretraživač(i) - rezultat vašeg rada (programiranja) je moguće videti u browser-u (pretraživaču). Za web programiranje, najviše se koriste [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) i [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), kao i [Mozilla Firefox za programere](https://www.mozilla.org/en-US/firefox/developer/). Neki subjektivni utisak je da je Chrome najbrži, ali da isto tako zahteva i jak računar da bi se ta nadmoć u brzini osetila. 
 
@@ -98,7 +101,7 @@ Jako je bitno da se učenju pristupi temeljno - nije dovoljno samo proći kroz t
 
 U vezi sa prethodnim savetom - nakon što budete prešli oblasti 1 i 2, kako na CodeAcademy, tako i na W3Schools, bilo bi dobro da bar nedelju-dve posvetite primeni tog znanja u nekom konkretnijem primeru. Recimo, da probate da sastavite stranu koja će da liči na spisak proizvoda sa [WinWin-ovog sajta](http://www.winwin.rs/mobilni-i-fiksni-telefoni/mobilni-telefoni.html)? Ili možda stranica [Politike sa najnovijim vestima](http://www.politika.rs/vesti/najnovije-vesti/index.1.sr.html)? Ne treba očekivati da možete da napravite istovetne stranice, samo nešto što približno liči na to. U procesu rada i učenja, kad god nešto nije jasno, treba se najviše oslanjati na Gugl, jer će vam on uvek dati odgovor ako umete da postavite pravo pitanje. U 99.99% slučajeva, neko je već imao problem sa kojim se vi susrećete, rešenje je već negde zapisano, samo ga treba naći. 
 
-Nakon koraka 1 i 2, koraku 3 treba pristupiti na isti način - preći sve tutorijale, a onda odraditi što je moguće više primera sami. Dobar sajt za učenje PHP je [PHP.net](http://php.net/). Nakon toga možete krenuti sa izradom svog prvog veb-sajta (korak 3a). To može biti jednostavna prodavnica sa spiskom proizvoda, korpom, registracijom korisnika. 
+Nakon koraka 1 i 2, koraku 3 treba pristupiti na isti način - preći sve tutorijale, a onda odraditi što je moguće više primera sami. Dobar sajt za učenje PHP-a je [PHP.net](http://php.net/). Nakon toga možete krenuti sa izradom svog prvog veb-sajta (korak 3a). To može biti jednostavna prodavnica sa spiskom proizvoda, korpom, registracijom korisnika. 
 
 Pošto ste napravili svoj prvi sajt i potvrdili da radi solidno, možete se posvetiti sledećem koraku, a to je programiranje istog sajta ispočetka, ali ovog puta u PHP framework-u. Jedan od poznatijih framework-ova, koji još ima i dosta veliku zajednicu, a odličan je za početnike, je [Laravel](http://laravel.com/). 
 
