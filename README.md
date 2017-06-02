@@ -48,7 +48,9 @@ Sve u svemu, ako ne znate dovoljno engleski, krenite što pre da ga učite! Čov
    
    * Jako je korisno ovladati korišćenjem editora, u smislu da poznajete sve shortcut-ove na tastaturi i da se oslanjate na miša što je moguće manje (jer time postajete znatno brži u svom radu). Postoji sjajan tutorijal za Sublime koji pokazuje sve njegove kvalitete i mogućnosti, a nalazi se [ovde](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2). 
    
-   [Brackets](http://brackets.io/) (može se koristiti besplatno)
+   [Visual Studio Code](https://code.visualstudio.com/) (može se koristiti besplatno)
+   
+   [Brackets](http://brackets.io/) (može se koristiti besplatno) 
    
    [Atom](https://atom.io/) (može se koristiti besplatno)
    
