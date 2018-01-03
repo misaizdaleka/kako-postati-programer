@@ -169,16 +169,11 @@ Takođe, imajući u vidu da je profesija programera jako cenjena i da se može l
 
 Predavanja autora:
 
-[Should you move Up to TypeScript and why is the answer probably Yes???](https://www.youtube.com/watch?v=zejOjRM65VI)
-
-[Dinosaurusi su umreli od Angular](https://www.youtube.com/watch?v=MlSoe2D0EHo)
-
-[Kutija za alat jednog frontend developera](https://www.youtube.com/watch?v=hkrbMwcf26g)
-
-[AngularJS - from heedless meddler to superheroic assistant](https://www.youtube.com/watch?v=U5XRQunQ-HY)
-
-[AngularJs - Taming the Superhero](http://video.webcamp.si/wc2015_boskovic_angularjs_taming_the_superhero/)
-
+- [Should you move Up to TypeScript and why is the answer probably Yes???](https://www.youtube.com/watch?v=zejOjRM65VI)
+- [Dinosaurusi su umreli od Angular](https://www.youtube.com/watch?v=MlSoe2D0EHo)
+- [Kutija za alat jednog frontend developera](https://www.youtube.com/watch?v=hkrbMwcf26g)
+- [AngularJS - from heedless meddler to superheroic assistant](https://www.youtube.com/watch?v=U5XRQunQ-HY)
+- [AngularJs - Taming the Superhero](http://video.webcamp.si/wc2015_boskovic_angularjs_taming_the_superhero/)
 
 Kreator ovog uputstva se profesionalno bavi web programiranjem od 2011. godine. U toku svoje karijere je pomogao dvojici prijatelja koji nisu iz IT sveta da nauče da programiraju i uspešno se otisnu u IT vode. Obojica su sada zapošljeni na stalno, od čega jedan radi direktno za inostranog klijenta već više od godinu dana. 
 
