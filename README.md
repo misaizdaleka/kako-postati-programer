@@ -167,7 +167,7 @@ Takođe, imajući u vidu da je profesija programera jako cenjena i da se može l
 ## Reference autora ovog uputstva
 [LinkedIn profil autora](http://rs.linkedin.com/in/milosboskovic)
 
-Predavanja autora:
+### Predavanja autora:
 
 - [Should you move Up to TypeScript and why is the answer probably Yes???](https://www.youtube.com/watch?v=zejOjRM65VI)
 - [Dinosaurusi su umreli od Angular](https://www.youtube.com/watch?v=MlSoe2D0EHo)
