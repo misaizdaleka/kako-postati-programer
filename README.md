@@ -168,10 +168,15 @@ Takođe, imajući u vidu da je profesija programera jako cenjena i da se može l
 [LinkedIn profil autora](http://rs.linkedin.com/in/milosboskovic)
 
 Predavanja autora:
+
 [Should you move Up to TypeScript and why is the answer probably Yes???](https://www.youtube.com/watch?v=zejOjRM65VI)
+
 [Dinosaurusi su umreli od Angular](https://www.youtube.com/watch?v=MlSoe2D0EHo)
+
 [Kutija za alat jednog frontend developera](https://www.youtube.com/watch?v=hkrbMwcf26g)
+
 [AngularJS - from heedless meddler to superheroic assistant](https://www.youtube.com/watch?v=U5XRQunQ-HY)
+
 [AngularJs - Taming the Superhero](http://video.webcamp.si/wc2015_boskovic_angularjs_taming_the_superhero/)
 
 
