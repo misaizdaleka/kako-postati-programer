@@ -121,7 +121,7 @@ Drugi alat, ili bolje reći set alata, jesu sajtovi za upravljanje projektima. O
 
 Github i Trello možete da koristite kada krenete da pravite sopstveni sajt - korak 3a. Doduše, Trello (i slični alati) najviše imaju smisla kada na projektu radi ceo tim, ali vas niko ne sprečava da sâmi sebi zadajete taskove i na taj način vodite evidenciju o svom napretku. Evo kako bi Trello tabla mogla da izgleda:
 
-![Trello tabla](http://s27.postimg.org/mhg3j3677/screen_1517.jpg "Trello tabla sa projektom")
+![Trello tabla](https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res/images/c6e271f5a83be78e58cdbcd593cead61/usecases-board05.jpg "Trello tabla sa projektom")
 
 ## Koristite Gugl
 
