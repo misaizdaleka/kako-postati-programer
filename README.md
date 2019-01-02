@@ -77,7 +77,7 @@ Postoje dve oblasti - jedna je striktno programiranje, dok druga obuhvata stvari
 Prve četiri stavke su obavezne da bi se dostigao nivo dovoljan za neko početničko programiranje, dok stavke 5 i 6 obuhvataju naprednije koncepte koji nisu obavezni u startu:
 
 1. HTML i CSS
-2. JavaScript i jQuery
+2. JavaScript i manipulacija DOM-om (ranije se za manipulaciju koristio jQuery, a sada može i bez njega, te je bolje proučiti [taj pristup](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/))
 3. PHP i MySQL
  * 3a. Izrada jednostavnog web sajta
 4. PHP Framework - osnove
