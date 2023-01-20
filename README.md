@@ -90,8 +90,8 @@ Redosled oblasti jeste bitan i ide od osnovnih koncepata prema naprednim. Oblast
 Ovo uputstvo će pokriti prve četiri oblasti. 
 
 ### Produktivnost
-- Github
-- Upravljane projektima
+- GitHub
+- Upravljanje projektima
 
 ## Učenje
 
@@ -115,19 +115,24 @@ Ako ste sve navedeno dovoljno temeljno prešli, treba da budete u poziciji gde v
 
 ### Alati za produktivnost
 
-Prvi alat za produktivnost je Github. To je upravo sajt na kome se nalazi ovaj dokument. Github služi za skladištenje vašeg kôda online, pri čemu se svaka njegova verzija pamti u obliku tzv. _commit_-ova. Ako odete na spisak commit-ova [za ovaj dokument](https://github.com/misaizdaleka/kako-postati-programer/commits/master), moći ćete tačno da vidite kako je ovaj dokument nastajao, korak po korak. Github je jako popularan među programerskim firmama, te je njegovo poznavanje prednost. 
+Prvi alat za produktivnost je GitHub. To je upravo platforma na kome se nalazi ovaj dokument. GitHub služi za skladištenje vašeg koda online, pri čemu se svaka njegova verzija pamti u obliku tzv. _commit_-ova. Ako odete na spisak commit-ova [za ovaj dokument](https://github.com/misaizdaleka/kako-postati-programer/commits/master), moći ćete tačno da vidite kako je ovaj dokument nastajao, korak po korak. GitHub je jako popularan među programerskim firmama, te je njegovo poznavanje prednost. 
 
 Drugi alat, ili bolje reći set alata, jesu sajtovi za upravljanje projektima. Oni omogućavaju nadzor i upravljanje razvojem projekata kao i programerima koji na njima rade. Konkretno, jedna od glavnih karakteristika je mogućnost dodeljivanja zadataka (task-ova) programerima i praćenje njihovog napretka. Jedan od jednostavnijih alata ovog tipa je i [Trello](https://trello.com/).
 
-Github i Trello možete da koristite kada krenete da pravite sopstveni sajt - korak 3a. Doduše, Trello (i slični alati) najviše imaju smisla kada na projektu radi ceo tim, ali vas niko ne sprečava da sâmi sebi zadajete taskove i na taj način vodite evidenciju o svom napretku. Evo kako bi Trello tabla mogla da izgleda:
+GitHub i Trello možete da koristite kada krenete da pravite sopstveni sajt ili bilo koji drugi projekat sličnog tipa - korak 3a. Doduše, Trello (i slični alati) najviše imaju smisla kada na projektu radi ceo tim, ali vas niko ne sprečava da sami sebi zadajete taskove i na taj način vodite evidenciju o svom napretku. Evo kako bi Trello tabla mogla da izgleda:
 
-![Trello tabla](https://d2k1ftgv7pobq7.cloudfront.net/meta/p/res/images/c6e271f5a83be78e58cdbcd593cead61/usecases-board05.jpg "Trello tabla sa projektom")
+![Trello tabla](https://i.postimg.cc/FRnwJbPS/trello.png)
+Ovo je prikaz Trello table realnog projekta u Laravel-u kojeg i sami možete pogledati na GitHub-u: [Poseti](https://github.com/ca-tim4-22/library)
 
 ## Koristite Gugl
 
 Većina čak i iskusnih programera se svakodnevno oslanja na Gugl pretragu kako bi došla do rešenja za probleme koje imaju u svom radu. Zato je izuzetno bitno da koristite pretragu i da umete efikasno i brzo da pretražujete. Uvek treba imati na umu da je problem koji imate, posebno ako ste početnik, već negde neko imao i rešio ga, te se i odgovor verovatno nalazi negde online, samo ga je potrebno naći.
 
 Znači, što više budete koristili tuđa iskustva u radu (koja ćete nalaziti preko pretrage), brže ćete i sami napredovati sa svojim znanjem. 
+
+## Koristite ChatGPT
+
+Ukoliko ne možete da pronađete svoje rješenje na guglu ili ukoliko vas mrzi da pretražujete jednostavno možete pitati ChatGPT bota.
 
 ## Sajtovi za učenje
 
@@ -149,8 +154,22 @@ Znači, što više budete koristili tuđa iskustva u radu (koja ćete nalaziti p
   Slično prethodnim
 - [Lynda](http://www.lynda.com/) - 
   Kao i prethodni
+- [Laracasts](https://laracasts.com/) - 
+  Kao i prethodni
 - [Coursera](https://www.coursera.org/) - 
   Sadrži tutorijale za jako širok spektar znanja i nauka (ne samo programiranje), besplatan, ali je u formi koja mnogo više odgovara studiranju na fakultetu, nego klasičnim tutorijalima
+  
+### Ostali korisni sajtovi
+- [Laravel News](https://laravel-news.com/) - Laravel novosti
+- [LaravelTricks](https://laravel-tricks.com/tricks) - Laravel trikovi/tips
+- [Packalyst](https://packalyst.com/) - Laravel - najnoviji paketi
+- [LaraJobs](https://larajobs.com/) - Laravel poslovi
+- [LaravelDaily](https://laraveldaily.com/) - Laravel kursevi/tutorijali/blog post-ovi
+- [LaravelShout](https://www.larashout.com/) - Laravel tutorijali/guides
+- [Laravel Interview Questions](https://www.guru99.com/laravel-interview-questions.html) - Laravel intervju pitanja
+- [Laravel dokumentacija](https://github.com/driade/laravel-book/blob/master/laravel-docs-9.x.pdf) - Laravel docs u .pdf formatu za štampanje
+- [Laravel.io](https://laravel.io/) - portal - zajednica/community
+- [Laravel Magazine](https://laravelmagazine.com/blog) - Laravel novine/magazin
 
 Za neke od ovih sajtova treba plaćati mesečnu pretplatu. Iako ima mnogo drugih besplatnih rešenja, i plaćeni sajtovi imaju svojih prednosti, te bi trebalo razmisliti o ulaganju novca u ovako nešto. Proces plaćanja ne bi trebalo da vas brine - ako imate račun u banci sa dinarima, lako ćete otvoriti PayPal nalog i platiti kurseve. 
 
@@ -166,6 +185,9 @@ Takođe, imajući u vidu da je profesija programera jako cenjena i da se može l
 
 ## Reference autora ovog uputstva
 [LinkedIn profil autora](http://rs.linkedin.com/in/milosboskovic)
+
+## Reference contributor-a upustva
+[LinkedIn profil contributor-a](https://www.linkedin.com/in/perisicnikola37/)
 
 Kreator ovog uputstva se profesionalno bavi web programiranjem od 2011. godine. U toku svoje karijere je pomogao dvojici prijatelja koji nisu iz IT sveta da nauče da programiraju i uspešno se otisnu u IT vode. Obojica su sada zapošljeni na stalno, od čega jedan radi direktno za inostranog klijenta već više od godinu dana. 
 
